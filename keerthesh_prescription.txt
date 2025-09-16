@@ -1,0 +1,16 @@
+
+=============================
+       Doctor Prescription
+=============================
+Patient Name : keerthesh
+Age          : 21
+Date & Time  : 16-09-2025 15:33:33
+
+Medicines Prescribed:
+-----------------------------
+Paracetamol (1-0-1) for 4 days = 8 tablets = Rs.16
+
+Consultation Fee : Rs.100
+-----------------------------
+Total Amount     : Rs.116
+=============================
